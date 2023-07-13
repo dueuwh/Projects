@@ -1,2 +1,2 @@
 # Projects
-This repository was created to store personal projects
+This repository was created to store projects related files
