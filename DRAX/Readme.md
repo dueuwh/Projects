@@ -21,4 +21,6 @@ Algorithms
   
 ## 5. Adaptive Filter
 
-  
+## 6. PCA
+
+## 7. ICA
