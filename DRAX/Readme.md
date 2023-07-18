@@ -24,3 +24,9 @@ Algorithms
 ## 6. PCA
 
 ## 7. ICA
+
+## 8. FFT
+
+## 9. DenseNet
+
+## 10. Attention
